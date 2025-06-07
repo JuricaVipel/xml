@@ -1,0 +1,87 @@
+<klub>
+  <dogadaji>
+    <dogadaj>
+      <naslov>Big DJ Night</naslov>
+      <opis>Top DJ-i i svjetlosni show!</opis>
+      <datum>2025-07-01</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>Saturday Special</naslov>
+      <opis>Gost iznenađenja!</opis>
+      <datum>2025-07-02</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>Otvorenje sezone</naslov>
+      <opis>GRSHE I BIGI</opis>
+      <datum>2025-07-03</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>Ljetni spektakl</naslov>
+      <opis>OHIC I SIGMER</opis>
+      <datum>2025-07-04</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>Techno Madness</naslov>
+      <opis>Underground techno all night</opis>
+      <datum>2025-07-05</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>Neon Vibes</naslov>
+      <opis>Dress code: neon!</opis>
+      <datum>2025-07-06</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>R'n'B Night</naslov>
+      <opis>Najbolji R'n'B hitovi</opis>
+      <datum>2025-07-07</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>Back to 90s</naslov>
+      <opis>Retro party!</opis>
+      <datum>2025-07-08</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>Reggaeton Fiesta</naslov>
+      <opis>Latino noć</opis>
+      <datum>2025-07-09</datum>
+    </dogadaj>
+    <dogadaj>
+      <naslov>House Explosion</naslov>
+      <opis>Eksplozija house glazbe</opis>
+      <datum>2025-07-10</datum>
+    </dogadaj>
+  </dogadaji>
+
+
+  <recenzije>
+    <recenzija>
+      <autor>Iva</autor>
+      <ocjena>5</ocjena>
+      <tekst>Najjači klub u gradu! Glazba brutalna.</tekst>
+    </recenzija>
+    <recenzija>
+      <autor>Marko</autor>
+      <ocjena>4</ocjena>
+      <tekst>Super atmosfera, ali gužva je bila velika.</tekst>
+    </recenzija>
+    <recenzija>
+      <autor>Jurica</autor>
+      <ocjena>5</ocjena>
+      <tekst>Top, napil sam se ko fikret</tekst>
+    </recenzija>
+  </recenzije>
+
+
+  <djevi>
+    <dj>
+      <ime>DJ Snake</ime>
+      <zanr>EDM</zanr>
+      <drzava>Francuska</drzava>
+    </dj>
+    <dj>
+      <ime>Nina Kraviz</ime>
+      <zanr>Techno</zanr>
+      <drzava>Rusija</drzava>
+    </dj>
+  </djevi>
+</klub>
